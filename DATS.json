@@ -1,0 +1,425 @@
+{
+  "title": "Ontario Neurodegenerative Disease Research Initiative (ONDRI): Parallel pathways for language processing: functional dissociation and compensation release",
+  "description": "Dr. Jed Meltzer, Dr. Regina Jokel, Dr. Jean Chen, Dr. Morris Freedman, Dr. Jennifer Ryan, Dr. Aneta Kielar | This controlled data release contains data from a series of studies conducted at Baycrest Hospital concerning the role of dorsal and ventral language pathways in both brain hemispheres in language processing. The studies examined neural reactivity to semantic and syntactic anomalies in written and auditory presentation formats, although some used written presentation only. Task-related MEG, resting-state MEG, and structural MRI data were collected from 5 cohorts of individuals: young controls (not included in the release), healthy older controls, patients with post-stroke aphasia, patients with primary progressive aphasia, and patients with AD or MCI. Speech recordings from many of the same individuals are also available on the Dementiabank database.",
+  "dates": [
+    {
+      "date": "2011-01-01 00:00:00",
+      "type": {
+        "value": "start date"
+      }
+    },
+    {
+      "date": "2016-07-01 00:00:00",
+      "type": {
+        "value": "end date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "name": "Ontario Brain Institute",
+      "abbreviation": "OBI",
+      "location": {
+        "name": "Toronto",
+        "postalAddress": "1 Richmond Street West"
+      }
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "MEG"
+      }
+    },
+    {
+      "information": {
+        "value": "resting state"
+      }
+    },
+    {
+      "information": {
+        "value": "ASL"
+      }
+    },
+    {
+      "information": {
+        "value": "DTI"
+      }
+    },
+    {
+      "information": {
+        "value": "MRI"
+      }
+    },
+    {
+      "information": {
+        "value": "stroke"
+      }
+    },
+    {
+      "information": {
+        "value": "aphasia"
+      }
+    },
+    {
+      "information": {
+        "value": "PPA"
+      }
+    },
+    {
+      "information": {
+        "value": "AD"
+      }
+    },
+    {
+      "information": {
+        "value": "MCI"
+      }
+    }
+  ],
+  "version": "2.0",
+  "privacy": "controlled",
+  "licenses": [
+    {
+      "name": "Refer to Brain-CODE Governance Policy"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "ACQ",
+        "CSV",
+        "DS",
+        "EEG",
+        "EVT",
+        "HC",
+        "HIST",
+        "INFODS",
+        "JSON",
+        "MEG4",
+        "NIfTI",
+        "RES4",
+        "XLSX"
+      ],
+      "size": 37.06,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://www.braincode.ca/",
+        "authorizations": [
+          {
+            "value": "registered"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "identifier": {
+        "identifier": "10.3389/fnagi.2016.00040",
+        "identifierSource": "https://doi.org/10.3389/fnagi.2016.00040"
+      },
+      "title": "Identifying Dysfunctional Cortex: Dissociable Effects of Stroke and Aging on Resting State Dynamics in MEG and fMRI",
+      "dates": [
+        {
+          "type": {
+            "value": "primary reference publication date"
+          },
+          "date": "2016-03-03 00:00:00"
+        }
+      ],
+      "publicationVenue": "Frontiers in Aging Neuroscience",
+      "authors": [
+        {
+          "fullName": "",
+          "firstName": "Aneta",
+          "lastName": "Kielar",
+          "affiliations": [
+            {
+              "name": "Rotman Research Institute, Baycrest Health Sciences, Toronto, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "",
+          "firstName": "Tiffany",
+          "lastName": "Deschamps",
+          "affiliations": [
+            {
+              "name": "Rotman Research Institute, Baycrest Health Sciences, Toronto, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "",
+          "firstName": "Ron K. O.",
+          "lastName": "Chu",
+          "affiliations": [
+            {
+              "name": "Rotman Research Institute, Baycrest Health Sciences, Toronto, Ontario, Canada and Department of Psychology, University of Toronto, Toronto, ON, Canada "
+            }
+          ]
+        },
+        {
+          "fullName": "",
+          "firstName": "Regina",
+          "lastName": "Jokel",
+          "affiliations": [
+            {
+              "name": "Rotman Research Institute, Baycrest Health Sciences, Toronto, Ontario, Canada and Department of Speech-Language Pathology, University of Toronto, Toronto, ON, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "",
+          "firstName": "Yasha B.",
+          "lastName": "Khatamian",
+          "affiliations": [
+            {
+              "name": "Rotman Research Institute, Baycrest Health Sciences, Toronto, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "",
+          "firstName": "Jean J.",
+          "lastName": "Chen",
+          "affiliations": [
+            {
+              "name": "Rotman Research Institute, Baycrest Health Sciences, Toronto, Ontario, Canada, Department of Medical Biophysics, University of Toronto, Toronto, ON, Canada and Canadian Partnership for Stroke Recovery, Ottawa, ON, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "",
+          "firstName": "Jed A. Meltzer",
+          "lastName": "Sunderland",
+          "affiliations": [
+            {
+              "name": "Rotman Research Institute, Baycrest Health Sciences, Toronto, Ontario, Canada, Department of Psychology, University of Toronto, Toronto, ON, Canada, Department of Speech-Language Pathology, University of Toronto, Toronto, ON, Canada and Canadian Partnership for Stroke Recovery, Ottawa, ON, Canada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": {
+        "identifier": "10.1002/hbm.23212",
+        "identifierSource": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.23212"
+      },
+      "title": "Functional reorganization of language networks for semantics and syntax in chronic stroke: Evidence from MEG",
+      "dates": [
+        {
+          "type": {
+            "value": "primary reference publication date"
+          },
+          "date": "2016-08-01 00:00:00"
+        }
+      ],
+      "publicationVenue": "Human Brain Mapping",
+      "authors": [
+        {
+          "fullName": "",
+          "firstName": "Aneta",
+          "lastName": "Kielar",
+          "affiliations": [
+            {
+              "name": "Rotman Research Institute, Baycrest Health Sciences, Toronto, Ontario, Canada and Canadian Partnership for Stroke Recovery, Ottawa, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "",
+          "firstName": "Tiffany",
+          "lastName": "Deschamps",
+          "affiliations": [
+            {
+              "name": "Rotman Research Institute, Baycrest Health Sciences, Toronto, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "",
+          "firstName": "Regina",
+          "lastName": "Jokel",
+          "affiliations": [
+            {
+              "name": "Rotman Research Institute, Baycrest Health Sciences, Toronto, Ontario, Canada and Department of Speech-Language Pathology, University of Toronto, Toronto, ON, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "",
+          "firstName": "Jed A. Meltzer",
+          "lastName": "Sunderland",
+          "affiliations": [
+            {
+              "name": "Rotman Research Institute, Baycrest Health Sciences, Toronto, Ontario, Canada, Department of Psychology, University of Toronto, Toronto, ON, Canada, Department of Speech-Language Pathology, University of Toronto, Toronto, ON, Canada and Canadian Partnership for Stroke Recovery, Ottawa, ON, Canada"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "name": "Canada"
+    }
+  ],
+  "aggregation": "instance of dataset",
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Ontario Neurodegenerative Disease Research Initiative participants, their study partners, and their families"
+        },
+        {
+          "name": "Government of Ontario"
+        },
+        {
+          "name": "Baycrest Academy for Research and Education"
+        },
+        {
+          "name": "Heart and Stroke Foundation of Ontario"
+        },
+        {
+          "name": "Alzheimer Society of Canada"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "MEG"
+    },
+    {
+      "value": "resting state"
+    },
+    {
+      "value": "ASL"
+    },
+    {
+      "value": "DTI"
+    },
+    {
+      "value": "MRI"
+    },
+    {
+      "value": "stroke"
+    },
+    {
+      "value": "aphasia"
+    },
+    {
+      "value": "PPA"
+    },
+    {
+      "value": "AD"
+    },
+    {
+      "value": "MCI"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": 52
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": 40
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Ontario Brain Institute"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Toronto"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "https://www.braincode.ca/sites/default/files/ONDRI%20data%20release%20image.png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Brain-CODE, datarelease@braincode.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
